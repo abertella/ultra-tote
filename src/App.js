@@ -9,14 +9,9 @@ function App() {
         <p>
           Miller Manufacturing and Sales online offerings
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Check Back Soon
-        </a>
+        <p>
+        Chech Back Soon
+        </p>
       </header>
     </div>
   );
