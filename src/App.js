@@ -10,7 +10,7 @@ function App() {
           Miller Manufacturing and Sales online offerings
         </p>
         <p>
-        Chech Back Soon
+        Check Back Soon
         </p>
       </header>
     </div>
