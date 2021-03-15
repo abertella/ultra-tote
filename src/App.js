@@ -1,4 +1,4 @@
-import logo from './logo.png';
+import logo from './png';
 import './App.css';
 
 function App() {
@@ -12,6 +12,11 @@ function App() {
         <p>
         Check Back Soon
         </p>
+        <p>MILLER MFG. & SALES INC.
+P: 205.999.3569
+E: DBMiller7@Outlook.com
+P.O. Box 101311
+Birmingham, AL 35210</p>
       </header>
     </div>
   );
